@@ -1,0 +1,30 @@
+.label {
+	font-size: 18px;
+	color: maroon;
+}
+
+/* space indicates desendants.*/
+form div {
+	border: 2px dashed blue;
+}
+
+h1 {
+	font-size: 32px;
+	color: peachpuff;
+	margin: 10px;
+
+}
+
+span {
+	border: 16px;
+}
+
+form{
+/*precentages are relative to the width of the containters*/
+	height: 80%;
+	height: 60%;
+	background-color: burlywood;
+	border: 3px insert orangered;
+	border-radius: 10px;
+}
+/* specifically the selector with the most IDs wins */
